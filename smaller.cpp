@@ -3,6 +3,9 @@
 //Instructor: Tong Yi
 //Assignment: smaller.cpp, Lab 1A
 //This program prints out the smaller of two integers
+//.
+//.
+//.*
 
 #include <iostream>
 using namespace std;
